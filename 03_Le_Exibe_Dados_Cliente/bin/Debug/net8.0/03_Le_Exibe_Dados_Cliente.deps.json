@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "03_Le_Exibe_Dados_Cliente/1.0.0": {
+        "runtime": {
+          "03_Le_Exibe_Dados_Cliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03_Le_Exibe_Dados_Cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

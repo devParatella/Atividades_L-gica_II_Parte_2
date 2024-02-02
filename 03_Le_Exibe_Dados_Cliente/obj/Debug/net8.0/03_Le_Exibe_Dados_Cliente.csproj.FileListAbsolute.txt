@@ -1,0 +1,15 @@
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\bin\Debug\net8.0\03_Le_Exibe_Dados_Cliente.exe
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\bin\Debug\net8.0\03_Le_Exibe_Dados_Cliente.deps.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\bin\Debug\net8.0\03_Le_Exibe_Dados_Cliente.runtimeconfig.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\bin\Debug\net8.0\03_Le_Exibe_Dados_Cliente.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\bin\Debug\net8.0\03_Le_Exibe_Dados_Cliente.pdb
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.AssemblyInfoInputs.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.AssemblyInfo.cs
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.sourcelink.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\refint\03_Le_Exibe_Dados_Cliente.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.pdb
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\03_Le_Exibe_Dados_Cliente.genruntimeconfig.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\03_Le_Exibe_Dados_Cliente\obj\Debug\net8.0\ref\03_Le_Exibe_Dados_Cliente.dll

@@ -1,0 +1,15 @@
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\bin\Debug\net8.0\02_Boas_Vindas.exe
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\bin\Debug\net8.0\02_Boas_Vindas.deps.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\bin\Debug\net8.0\02_Boas_Vindas.runtimeconfig.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\bin\Debug\net8.0\02_Boas_Vindas.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\bin\Debug\net8.0\02_Boas_Vindas.pdb
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.AssemblyInfoInputs.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.AssemblyInfo.cs
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.csproj.CoreCompileInputs.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.sourcelink.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\refint\02_Boas_Vindas.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.pdb
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\02_Boas_Vindas.genruntimeconfig.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\02_Boas_Vindas\obj\Debug\net8.0\ref\02_Boas_Vindas.dll

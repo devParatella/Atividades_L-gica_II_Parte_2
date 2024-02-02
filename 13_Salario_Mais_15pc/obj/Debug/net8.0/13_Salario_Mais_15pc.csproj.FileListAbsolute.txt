@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\bin\Debug\net8.0\13_Salario_Mais_15pc.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\bin\Debug\net8.0\13_Salario_Mais_15pc.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\bin\Debug\net8.0\13_Salario_Mais_15pc.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\bin\Debug\net8.0\13_Salario_Mais_15pc.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\bin\Debug\net8.0\13_Salario_Mais_15pc.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\refint\13_Salario_Mais_15pc.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\13_Salario_Mais_15pc.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\13_Salario_Mais_15pc\obj\Debug\net8.0\ref\13_Salario_Mais_15pc.dll

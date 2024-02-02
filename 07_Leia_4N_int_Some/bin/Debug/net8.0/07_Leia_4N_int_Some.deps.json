@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "07_Leia_4N_int_Some/1.0.0": {
+        "runtime": {
+          "07_Leia_4N_int_Some.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07_Leia_4N_int_Some/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

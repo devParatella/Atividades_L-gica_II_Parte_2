@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\bin\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\bin\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\bin\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\bin\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\bin\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\refint\09_Leia_Dias_SHOW_AA_MM_DD.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\09_Leia_Dias_SHOW_AA_MM_DD.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\09_Leia_Dias_SHOW_AA_MM_DD\obj\Debug\net8.0\ref\09_Leia_Dias_SHOW_AA_MM_DD.dll

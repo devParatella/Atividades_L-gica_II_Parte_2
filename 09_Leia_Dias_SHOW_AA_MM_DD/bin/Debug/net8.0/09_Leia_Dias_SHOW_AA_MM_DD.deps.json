@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "09_Leia_Dias_SHOW_AA_MM_DD/1.0.0": {
+        "runtime": {
+          "09_Leia_Dias_SHOW_AA_MM_DD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09_Leia_Dias_SHOW_AA_MM_DD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

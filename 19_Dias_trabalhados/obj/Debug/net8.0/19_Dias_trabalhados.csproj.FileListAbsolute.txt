@@ -1,0 +1,15 @@
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\bin\Debug\net8.0\19_Dias_trabalhados.exe
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\bin\Debug\net8.0\19_Dias_trabalhados.deps.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\bin\Debug\net8.0\19_Dias_trabalhados.runtimeconfig.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\bin\Debug\net8.0\19_Dias_trabalhados.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\bin\Debug\net8.0\19_Dias_trabalhados.pdb
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.AssemblyInfoInputs.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.AssemblyInfo.cs
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.csproj.CoreCompileInputs.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.sourcelink.json
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\refint\19_Dias_trabalhados.dll
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.pdb
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\19_Dias_trabalhados.genruntimeconfig.cache
+C:\Users\EMAIL\Documents\Paratella\Logica II\Atividades_Parte_2\19_Dias_trabalhados\obj\Debug\net8.0\ref\19_Dias_trabalhados.dll

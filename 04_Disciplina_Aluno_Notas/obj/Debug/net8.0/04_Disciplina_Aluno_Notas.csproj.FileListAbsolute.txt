@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\bin\Debug\net8.0\04_Disciplina_Aluno_Notas.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\bin\Debug\net8.0\04_Disciplina_Aluno_Notas.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\bin\Debug\net8.0\04_Disciplina_Aluno_Notas.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\bin\Debug\net8.0\04_Disciplina_Aluno_Notas.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\bin\Debug\net8.0\04_Disciplina_Aluno_Notas.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\refint\04_Disciplina_Aluno_Notas.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\04_Disciplina_Aluno_Notas.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\04_Disciplina_Aluno_Notas\obj\Debug\net8.0\ref\04_Disciplina_Aluno_Notas.dll

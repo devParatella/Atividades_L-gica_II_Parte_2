@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\bin\Debug\net8.0\16_converter_moedas.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\bin\Debug\net8.0\16_converter_moedas.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\bin\Debug\net8.0\16_converter_moedas.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\bin\Debug\net8.0\16_converter_moedas.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\bin\Debug\net8.0\16_converter_moedas.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\refint\16_converter_moedas.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\16_converter_moedas.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\16_converter_moedas\obj\Debug\net8.0\ref\16_converter_moedas.dll

@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\bin\Debug\net8.0\17_Parede_Area_Pintura.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\bin\Debug\net8.0\17_Parede_Area_Pintura.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\bin\Debug\net8.0\17_Parede_Area_Pintura.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\bin\Debug\net8.0\17_Parede_Area_Pintura.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\bin\Debug\net8.0\17_Parede_Area_Pintura.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\refint\17_Parede_Area_Pintura.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\17_Parede_Area_Pintura.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\17_Parede_Area_Pintura\obj\Debug\net8.0\ref\17_Parede_Area_Pintura.dll

@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\bin\Debug\net8.0\06_Salario_Funcionario_MSG.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\bin\Debug\net8.0\06_Salario_Funcionario_MSG.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\bin\Debug\net8.0\06_Salario_Funcionario_MSG.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\bin\Debug\net8.0\06_Salario_Funcionario_MSG.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\bin\Debug\net8.0\06_Salario_Funcionario_MSG.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\refint\06_Salario_Funcionario_MSG.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\06_Salario_Funcionario_MSG.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\06_Salario_Funcionario_MSG\obj\Debug\net8.0\ref\06_Salario_Funcionario_MSG.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "11_Leia_Tempo_Dur_Ativ_SEG_SHOW_HH_MM_SS/1.0.0": {
+        "runtime": {
+          "11_Leia_Tempo_Dur_Ativ_SEG_SHOW_HH_MM_SS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_Leia_Tempo_Dur_Ativ_SEG_SHOW_HH_MM_SS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

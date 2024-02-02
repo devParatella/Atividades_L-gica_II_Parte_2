@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\bin\Debug\net8.0\07_Leia_4N_int_Some.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\bin\Debug\net8.0\07_Leia_4N_int_Some.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\bin\Debug\net8.0\07_Leia_4N_int_Some.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\bin\Debug\net8.0\07_Leia_4N_int_Some.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\bin\Debug\net8.0\07_Leia_4N_int_Some.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\refint\07_Leia_4N_int_Some.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\07_Leia_4N_int_Some.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\07_Leia_4N_int_Some\obj\Debug\net8.0\ref\07_Leia_4N_int_Some.dll

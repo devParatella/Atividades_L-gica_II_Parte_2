@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\bin\Debug\net8.0\18_Equacao_SEGGRAU.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\bin\Debug\net8.0\18_Equacao_SEGGRAU.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\bin\Debug\net8.0\18_Equacao_SEGGRAU.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\bin\Debug\net8.0\18_Equacao_SEGGRAU.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\bin\Debug\net8.0\18_Equacao_SEGGRAU.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\refint\18_Equacao_SEGGRAU.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\18_Equacao_SEGGRAU.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\18_Equacao_SEGGRAU\obj\Debug\net8.0\ref\18_Equacao_SEGGRAU.dll

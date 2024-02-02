@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\bin\Debug\net8.0\14_Matricula_Curso_Menos_10pc.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\bin\Debug\net8.0\14_Matricula_Curso_Menos_10pc.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\bin\Debug\net8.0\14_Matricula_Curso_Menos_10pc.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\bin\Debug\net8.0\14_Matricula_Curso_Menos_10pc.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\bin\Debug\net8.0\14_Matricula_Curso_Menos_10pc.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\refint\14_Matricula_Curso_Menos_10pc.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\14_Matricula_Curso_Menos_10pc.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\14_Matricula_Curso_Menos_10pc\obj\Debug\net8.0\ref\14_Matricula_Curso_Menos_10pc.dll

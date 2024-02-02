@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\bin\Debug\net8.0\05_Tabuada_N_Digitado.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\bin\Debug\net8.0\05_Tabuada_N_Digitado.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\bin\Debug\net8.0\05_Tabuada_N_Digitado.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\bin\Debug\net8.0\05_Tabuada_N_Digitado.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\bin\Debug\net8.0\05_Tabuada_N_Digitado.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\refint\05_Tabuada_N_Digitado.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\05_Tabuada_N_Digitado.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\05_Tabuada_N_Digitado\obj\Debug\net8.0\ref\05_Tabuada_N_Digitado.dll

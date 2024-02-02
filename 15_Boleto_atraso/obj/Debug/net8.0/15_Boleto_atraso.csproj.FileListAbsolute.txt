@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\bin\Debug\net8.0\15_Boleto_atraso.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\bin\Debug\net8.0\15_Boleto_atraso.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\bin\Debug\net8.0\15_Boleto_atraso.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\bin\Debug\net8.0\15_Boleto_atraso.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\bin\Debug\net8.0\15_Boleto_atraso.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\refint\15_Boleto_atraso.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\15_Boleto_atraso.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\15_Boleto_atraso\obj\Debug\net8.0\ref\15_Boleto_atraso.dll

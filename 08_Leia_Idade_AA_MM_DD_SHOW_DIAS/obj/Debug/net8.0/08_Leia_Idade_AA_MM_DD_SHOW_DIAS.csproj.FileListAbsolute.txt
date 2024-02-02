@@ -1,0 +1,14 @@
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\bin\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.exe
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\bin\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.deps.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\bin\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.runtimeconfig.json
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\bin\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\bin\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.AssemblyInfoInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.AssemblyInfo.cs
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\refint\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.dll
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.pdb
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.genruntimeconfig.cache
+C:\Users\Marcos\Lógica_de_programador II\Atividades\Parte_02\08_Leia_Idade_AA_MM_DD_SHOW_DIAS\obj\Debug\net8.0\ref\08_Leia_Idade_AA_MM_DD_SHOW_DIAS.dll
